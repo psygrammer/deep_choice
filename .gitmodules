@@ -1,0 +1,3 @@
+[submodule "rl_finance/rltrader"]
+	path = rl_finance/rltrader
+	url = https://github.com/quantylab/rltrader.git
