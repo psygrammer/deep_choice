@@ -1,4 +1,4 @@
-psyml:
+deep_choice:
   image: psygrammer/deepcon:0.2
   ports:
     - "8888:8888"
