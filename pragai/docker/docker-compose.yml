@@ -1,0 +1,14 @@
+pragmatic_ai:
+  image: jupyter/datascience-notebook
+  user : root
+  environment:
+      JUPYTER_ENABLE_LAB: 1
+      NB_USER: 'jovyan'
+      GRANT_SUDO: 'yes'
+  ports:
+    - "8888:8888"
+    - "6006:6006"
+  volumes:
+    - ../:/home/jovyan/work/pragai
+  command: start-notebook.sh --NotebookApp.token=''
+  tty: true

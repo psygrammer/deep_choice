@@ -2,8 +2,8 @@
 	path = rl_finance/rltrader
 	url = https://github.com/quantylab/rltrader.git
 [submodule "cloud/pragmaticai"]
-	path = cloud/pragmaticai
+	path = pragai/pragmaticai
 	url = https://github.com/noahgift/pragmaticai.git
 [submodule "cloud/pragai-aws"]
-	path = cloud/pragai-aws
+	path = pragai/pragai-aws
 	url = https://github.com/noahgift/pragai-aws.git
