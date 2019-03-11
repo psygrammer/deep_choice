@@ -23,7 +23,7 @@
 # 설치 공통
 * git submodule
 ```shell
-deep_city 설치 디렉토리로 이동 후
+deep_choice 설치 디렉토리로 이동 후
 $ git submodule init
 $ git submodule update
 ```
