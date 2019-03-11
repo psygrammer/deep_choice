@@ -33,7 +33,7 @@ $ git submodule init
 $ git submodule update
 ```
 
-* 도커
+3. 도커
   * 리눅스
     - 알아서
   * 맥
