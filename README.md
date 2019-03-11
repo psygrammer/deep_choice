@@ -21,7 +21,12 @@
   - https://www.facebook.com/groups/DeepReward
   
 # 설치 공통
-* git submodule
+
+1. 소스코드 클로닝
+```shell
+$ git clone https://github.com/psygrammer/deep_choice.git
+```
+2. git submodule
 ```shell
 deep_choice 설치 디렉토리로 이동 후
 $ git submodule init
