@@ -16,3 +16,6 @@
 [submodule "real/deep_city"]
 	path = real/deep_city
 	url = https://github.com/psygrammer/deep_city.git
+[submodule "rl_handson/Deep-Reinforcement-Learning-Hands-On"]
+	path = rl_handson/Deep-Reinforcement-Learning-Hands-On
+	url = https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On.git
