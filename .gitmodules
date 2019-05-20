@@ -22,3 +22,9 @@
 [submodule "real/python-real-estate"]
 	path = real/python-real-estate
 	url = https://github.com/wikibook/python-real-estate.git
+[submodule "fin_ml/Adv_Fin_ML_Exercises"]
+	path = fin_ml/Adv_Fin_ML_Exercises
+	url = https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises.git
+[submodule "fin_ml/finance_ml"]
+	path = fin_ml/finance_ml
+	url = https://github.com/jjakimoto/finance_ml.git
