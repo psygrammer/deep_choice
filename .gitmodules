@@ -19,3 +19,6 @@
 [submodule "rl_handson/Deep-Reinforcement-Learning-Hands-On"]
 	path = rl_handson/Deep-Reinforcement-Learning-Hands-On
 	url = https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On.git
+[submodule "real/python-real-estate"]
+	path = real/python-real-estate
+	url = https://github.com/wikibook/python-real-estate.git
