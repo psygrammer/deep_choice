@@ -10,3 +10,6 @@
 [submodule "pragai/spartan_ai_lifecyle"]
 	path = pragai/spartan_ai_lifecyle
 	url = https://github.com/noahgift/spartan_ai_lifecyle.git
+[submodule "pragai/DeepScale"]
+	path = pragai/DeepScale
+	url = https://github.com/DeepReward/DeepScale.git
