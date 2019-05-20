@@ -13,3 +13,6 @@
 [submodule "pragai/DeepScale"]
 	path = pragai/DeepScale
 	url = https://github.com/DeepReward/DeepScale.git
+[submodule "real/deep_city"]
+	path = real/deep_city
+	url = https://github.com/psygrammer/deep_city.git
