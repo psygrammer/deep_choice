@@ -7,3 +7,6 @@
 [submodule "cloud/pragai-aws"]
 	path = pragai/pragai-aws
 	url = https://github.com/noahgift/pragai-aws.git
+[submodule "pragai/spartan_ai_lifecyle"]
+	path = pragai/spartan_ai_lifecyle
+	url = https://github.com/noahgift/spartan_ai_lifecyle.git
