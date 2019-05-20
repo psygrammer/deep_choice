@@ -28,3 +28,6 @@
 [submodule "fin_ml/finance_ml"]
 	path = fin_ml/finance_ml
 	url = https://github.com/jjakimoto/finance_ml.git
+[submodule "rl_basic/reinforcement-learning-an-introduction"]
+	path = rl_basic/reinforcement-learning-an-introduction
+	url = https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
